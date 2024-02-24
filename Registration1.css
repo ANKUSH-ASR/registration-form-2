@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+    /* color: white; */
+}
+body{
+    background-color: rgb(1, 74, 74);
+    
+}
+.container{
+    /* background-color: rgb(17, 217, 244); */
+    width: 1200px;
+    height: 600px;
+    display: flex;
+
+}
+img{
+    /* border-radius: 20%; */
+}
+.image{
+    /* margin-top: 100px; */
+    margin-left: 200px;
+    padding-top: 200px;
+}
+.form{
+    margin-left: 100px;
+    padding-top: 100px;
+
+}
+h1{
+    margin-left: 100px;
+    font-size: 35px;
+    font-weight:bolder ;
+    color: white;
+    
+}
+.a4{
+    /* margin-left: 90px; */
+    text-align: center;
+    font-size: 25px;
+    font-weight:bolder ;
+    color: white;
+
+}
+.a3{
+    color: white;
+    font-size: 0.85rem;
+    text-align: center;
+    font-weight: bold;
+}
+pre{
+    color: white;
+    font-size: 0.85rem;
+    text-align: center;
+    font-weight: bold;
+
+}
+.a1 button{
+    margin-left:30px ;
+    height: 50px; 
+    width:350px ;
+    border-radius: 25px;
+    background-color:rgb(3, 87, 87);
+    font-size: larger;
+    color: white;
+}
+.a2 {
+    margin-left: 20px;
+    
+}
+.form input{
+    height: 50px;
+    width:350px;
+    border-radius: 25px;
+    text-align:center;
+    background-color:rgb(3, 87, 87) ;
+    
+    
+}
+::placeholder{
+    color: white;
+    
+}
+.social{
+    margin-left: 15px;
+}
+.a2 button{
+    height: 50px;
+    width:150px ;
+    border-radius: 25px;
+    background-color: white;
+    color: black;
+    font-size: larger;
+    text-align: center;
+
+}
+.a2 i{
+    margin-right: 10px;
+}
+a i{
+    color: white;
+}
